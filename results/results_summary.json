@@ -4,13 +4,13 @@
   "val_size": 3208,
   "test_size": 3209,
   "network_nodes": 30894,
-  "network_edges": 100749,
+  "network_edges": 100756,
   "num_features": 27,
   "model_performance": {
-    "accuracy": 0.7497662823309442,
-    "precision": 0.375,
-    "recall": 0.018915510718789406,
-    "f1": 0.03601440576230492,
-    "roc_auc": 0.6180183810327118
+    "accuracy": 0.7538173885945777,
+    "precision": 0.5333333333333333,
+    "recall": 0.03026481715006305,
+    "f1": 0.057279236276849645,
+    "roc_auc": 0.6167187225975631
   }
 }

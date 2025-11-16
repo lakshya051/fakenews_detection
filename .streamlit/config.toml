@@ -1,0 +1,12 @@
+[client]
+toolbarMode = "minimal"
+
+[logger]
+level = "warning"
+
+[server]
+# Disable the file watcher to avoid torch._classes inspection issues
+fileWatcherType = "none"
+
+# Allow reruns without sidebar prompt
+runOnSave = false
