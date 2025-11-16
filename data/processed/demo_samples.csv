@@ -1,6 +1,0 @@
-id,news_url,title,tweet_ids,label,dataset_source,tweet_ids_list,num_tweets,text,user_id,post_id,timestamp,follower_count,following_count,verified,account_created
-demo-1,https://example.com/news1,New study shows coffee improves focus,,0,example,"[]",0,New study shows coffee improves focus,user_demo1,demo-1,2025-11-01 10:00:00,120,35,0,2020-01-01 09:00:00
-demo-2,https://example.com/news2,Celebrity endorses miracle diet that melts fat overnight,,1,example,"[]",0,Celebrity endorses miracle diet that melts fat overnight,user_demo2,demo-2,2025-10-15 12:30:00,5000,150,1,2018-05-05 08:00:00
-demo-3,https://example.com/news3,Local council approves new park plan,,0,example,"[]",0,Local council approves new park plan,user_demo3,demo-3,2025-09-20 09:15:00,300,80,0,2019-03-12 07:45:00
-demo-4,https://example.com/news4,Study links chocolate consumption to longer life,,0,example,"[]",0,Study links chocolate consumption to longer life,user_demo4,demo-4,2025-08-30 18:20:00,800,120,0,2017-11-11 11:11:11
-demo-5,https://example.com/news5,Shocking claim: government secretly removes sunlight to save energy,,1,example,"[]",0,Shocking claim: government secretly removes sunlight to save energy,user_demo5,demo-5,2025-06-10 05:45:00,50,20,0,2024-02-02 02:02:02
